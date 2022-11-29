@@ -24,3 +24,5 @@ LANDSCAPE VIEW
 
 Test was executed after the development of the application, with the test file located at app -> src -> androidTest -> java -> com.example.tiptime
 -> CalculatorTests.kt
+
+When the test is executed, the emulator is automatically launched, and the value set earlier in the code is typed in automatically, followed by a few instructions coded such as pressing the "Calculate" button.
