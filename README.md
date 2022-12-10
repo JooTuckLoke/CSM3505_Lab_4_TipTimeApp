@@ -26,3 +26,8 @@ Test was executed after the development of the application, with the test file l
 -> CalculatorTests.kt
 
 When the test is executed, the emulator is automatically launched, and the value set earlier in the code is typed in automatically, followed by a few instructions coded such as pressing the "Calculate" button.
+
+# Tutorial source
+
+The application is created by following the tutorials provided by the android developers with the source link of the tutorial is as below: 
+https://developer.android.com/courses/android-basics-kotlin/unit-2
